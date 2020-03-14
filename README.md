@@ -1,6 +1,6 @@
 # COMP551 Applied Machine Learning
 
-This repository contains the code and reports for the mini-projects done in COMP551 during Winter 2020.
+This repository contains the code and reports for the mini-projects done in McGill University's COMP551 course during Winter 2020.
 
 ## Project 1
 The given task was to implement 2 classification models: Logistic Regression and Naive Bayes in order to classify targets from 4 datasets acquired from UCI Machine Learning Repository. A subsequent report was written to indicate our results and findings.
