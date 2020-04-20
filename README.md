@@ -12,7 +12,7 @@ The given task was to investigate 5 classification models: Logistic Regression, 
 
 A subsequent [report](project2/writeup.pdf) was written to indicate our results and findings.
 
-## TODO: Project 3
-The given task was to implement a Multilayer Perceptron from scratch, including its backpropagation and a mini-batch gradient descent algorithm. Additionally, we were to develop a Convolutional Neural Network using PyTorch. Both models were trained on the CIFAR10 dataset. The accuracies and losses of training and validation splits were recorded during training. We compared both models and their performance.
+## Project 3
+The given task was to implement a Multilayer Perceptron from scratch, including its backpropagation and a mini-batch gradient descent algorithm. Additionally, we were to develop a Convolutional Neural Network using PyTorch. Both models were trained on the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset. The accuracies and losses of training and validation splits were recorded during training. We compared both models and their performance.
 
-A subsequent report was written to indicate our results and findings.
+A subsequent [report](project3/writeup.pdf) was written to indicate our results and findings.
